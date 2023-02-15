@@ -26,8 +26,8 @@ def apt_numbers():
             if time_to_buy % 12 == 0:
                 years_savings = years_savings - 1
 
-        st.write("It will take Hakan", int(time_to_buy / 12), "years and", time_to_buy % 12,
-                 "months to buy his first apartment.")
+        st.write("It will take ", int(time_to_buy / 12), "years and", time_to_buy % 12,
+                 "months to buy your first apartment.")
 
         # Calculate the number of apartments someone can buy
         while years_savings >= 0:
@@ -39,7 +39,7 @@ def apt_numbers():
                 saving_per_month = savings_per_month + rent - monthly_loan_payment
             years_savings = years_savings - 1
 
-        st.write("Hakan can buy", num_apartments, "apartments until the retirement age.")
+        st.write("You can buy", num_apartments, "apartments until you retire.")
 
 
 # Main program
