@@ -14,7 +14,7 @@ Click the "Calculate" button to see the results.
 
 Disclaimer:
 
-This app is for educational purposes only and should not be used for financial planning. The results are based on the inputs provided and are not guaranteed to be accurate or complete. Always consult with a financial advisor before making any investment decisions.
+This app is for educational purposes made by "Stremlit" and should not be used for financial plannig.
 
 Author:
 Elaheh Sarshar
